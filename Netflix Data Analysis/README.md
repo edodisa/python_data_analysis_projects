@@ -1,7 +1,7 @@
 # Netflix Data Analysis
 
 In this project we will provide data analysis on a dataset from on Kaggle about TV shows and movies available on Netflix till 2021.
-We will answer to different question that will help up to differnt questions in order to gain a deep knowledge of the data.
+We will answer to different questions in order to gain a deep knowledge of the data.
 We will also build a recommendation system based on plot using Sklearn to recommend movies to a user.
 
 ---
