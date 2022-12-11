@@ -1,5 +1,5 @@
 # Python Data Analysis Projects
-A collection of different data analysis projects that I've worked on in python.
+A collection of different data analysis projects that I've worked on in python, considering real world cases and datasets available online.
 
 | **No.** | **Name** | 
 | ------- | -------- | 
